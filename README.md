@@ -72,7 +72,7 @@ Retail-Sales-Analysis/
 ## ▶️ How to Use
 1. Clone or download the repository
 2. Open `Retail_Sales Project.xlsx` to review the dataset
-3. Open `Sales Dashboard.pbix` in Power BI Desktop
+3. Open `Retail_Sales Dashboard.pbix` in Power BI Desktop
 4. Use slicers to explore insights interactively
 
 
