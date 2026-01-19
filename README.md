@@ -86,6 +86,5 @@ Retail-Sales-Analysis/
 ## 👤 Author
 **Aandaal K.S**
 
-
 ## 📌 Project Type
 Academic / Portfolio Project
