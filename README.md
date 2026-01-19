@@ -59,10 +59,10 @@ This project analyzes retail sales data using **Excel** and **Power BI** to unco
 
 
 ## 📂 Folder Structure
-Retail-Sales-Analysis/
-│── Retail_Sales Project.xlsx 
-│── Retail_Sales Dashboard.pbix 
-│── README.md
+Retail-Sales-Analysis/Data
+  │── Retail_Sales Project.xlsx 
+  │── Retail_Sales Dashboard.pbix 
+  │── README.md
 │── Screenshots/ │
 ├── dashboard_overview.png 
 | └── Sales Performance analysis.png 
