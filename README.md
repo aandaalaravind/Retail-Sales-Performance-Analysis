@@ -63,7 +63,9 @@ Retail-Sales-Analysis/Data
   │── Retail_Sales Project.xlsx 
   │── Retail_Sales Dashboard.pbix 
   │── README.md
-│── Screenshots/ │
+
+
+Screenshots/ │
 ├── dashboard_overview.png 
 | └── Sales Performance analysis.png 
 │ └── Operational and Discount analysis.png
